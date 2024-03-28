@@ -12,7 +12,7 @@ Ham veriler ise [https://sim.csb.gov.tr/STN/STN_Report/StationDataDownloadNew](h
 
 ## Veri ithali
 
-İstanbul Arnavutköy'e ait olan saatlik hava kalitesi parametrelerini Excel formatında eylül ayı için indirdim.
+İstanbul Kartal'a ait olan saatlik hava kalitesi parametrelerini Excel formatında ekim ayı için indirdim.
 
 ```{r warning=FALSE}
 library(readxl)
